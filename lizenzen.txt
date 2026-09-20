@@ -1,0 +1,98 @@
+License Source link, type of license and latest observation date.
+
+
+---------------------Used third party sounds---------------------
+
+Background Music produced for us by Maxim Triller
+
+---Leaf Blower:--- 
+"Hitting the sandbag" by Universfield.
+Source: https://pixabay.com/sound-effects/hitting-the-sandbag-131853/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+---Item Pick Up:--- 
+"Item Equip" by mricky13.
+Source: https://pixabay.com/sound-effects/item-equip-6904/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+---Coin Pick Up:--- 
+"Ping" by DrMrSir.
+Source: https://pixabay.com/sound-effects/ping-82822/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+---Win:---
+"WinFantasia" by Fupicat.
+Source: https://pixabay.com/sound-effects/winfantasia-6912/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+"Level win" by Tuudurt.
+Source: https://pixabay.com/de/sound-effects/level-win-6416/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+---Death:---
+"Videogame Death Sound" by Fupicat.
+Source: https://pixabay.com/sound-effects/videogame-death-sound-43894/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+"Game Over Arcade" by myfox14.
+Source: https://pixabay.com/de/sound-effects/game-over-arcade-6435/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+---Spring:--- 
+"jews harp boing" by C-V.
+Source: https://pixabay.com/sound-effects/jews-harp-boing-7111/
+License: Pixabay Licence (https://pixabay.com/de/service/license/)
+08.02.2023
+
+---GUI Sound Feedback:--- 
+"Multimedia plastic style button click 1" from ZapSplat
+Source: https://www.zapsplat.com/music/multimedia-plastic-style-button-click-1/
+License: ZapSplat Standard License (https://www.zapsplat.com/license-type/standard-license/)
+08.02.2023
+
+"Multimedia plastic style button click 2" from ZapSplat
+Source: https://www.zapsplat.com/music/multimedia-plastic-style-button-click-2/
+License: ZapSplat Standard License (https://www.zapsplat.com/license-type/standard-license/)
+08.02.2023
+
+
+---------------------Third Party Visuals and Fonts:---------------------
+
+---GUI Wood Background:--- 
+"Set of wooden sign banner" by GraphicsRF
+Source: https://stock.adobe.com/de/images/set-of-wooden-sign-banner/490024966?prev_url=detail,
+License: Adobe Stock Standard License (https://stock.adobe.com/license-terms)
+08.02.2023
+
+---Main Menu Background:--- 
+"Post apocalyptic abandoned city - horizontal seamless pixelated backdrop with ruins of the town after accident for 8-bit games.
+Can be used as pixel background for creating levels, wallpapers etc." by Ko_Te
+Source: https://stock.adobe.com/de/288027605
+License: Adobe Stock Standard License (https://stock.adobe.com/license-terms)
+08.02.2023
+
+"pixel art scene jurassic travel" by non248
+Source: https://stock.adobe.com/de/images/pixel-art-scene-jurassic-travel/366239780?prev_url=detail
+Licencse: Adobe Stock Standard License (https://stock.adobe.com/license-terms)
+08.02.2023
+
+---Fonts:--- 
+"Monocraft" by Idrees Hassan
+Source: https://fontesk.com/monocraft-font/
+License: SIL Open Font License
+08.02.2023
+
+"Dugeon Chunk by Joshua Skelton
+Source: https://fontesk.com/dungeon-chunk-font/
+Licencse: SIL Open Font License
+08.02.2023
+
+
+
