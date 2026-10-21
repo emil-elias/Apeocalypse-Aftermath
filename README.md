@@ -10,7 +10,7 @@ Artworks:
 - Ruven Bellmann
 - Nikolaos Dhimitri
 
-Leveldesign, GUI-Entwicklung:
+Leveldesign, GUI:
 - Dario Aberle
 - Leonard Kiefner
 
