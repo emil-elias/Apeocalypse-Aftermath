@@ -1,4 +1,4 @@
-<img width="200" height="128" alt="Title" src="https://github.com/user-attachments/assets/43cf8268-a4b0-47b4-a8d2-abe5b8dd72ea" />
+<img width="1340" height="754" alt="Screenshot_11" src="https://github.com/user-attachments/assets/12d6db42-ab02-4a28-9425-3de8639aa794" />
 
 # Apeocalypse: Aftermath
 ### a Media Engineering Projektschen
